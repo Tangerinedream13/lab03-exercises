@@ -12,3 +12,6 @@ In this method we can take two numbers from the list and compare. If they're the
 
 2) The second solution is to use a dictionary or a map (similar to the containsPair method we wrote in class). 
 In this method the map works as a constant and is much faster. It doesn't have to loop through each number and instead uses a tracker. 
+
+Head should always point to the newest commit: On both one-set and main
+
